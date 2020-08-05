@@ -11,4 +11,4 @@ SEn_point_cloud_reg.m - An example for point cloud registration using SE(n)++
 ![](https://github.com/zarathustr/SEnpp/blob/master/garage3.jpg)
 
 # Reference
-Wu, J., Liu, M. et al. (2020) SE(n)++: An Efficient Solution to Multiple Pose Estimation Problems. Submitted to IEEE Transactions on Cybernetics.
+Wu, J., Liu, M. et al. (2020) SE(n)++: An Efficient Solution to Multiple Pose Estimation Problems. IEEE Transactions on Cybernetics.
